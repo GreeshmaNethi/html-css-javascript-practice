@@ -1,11 +1,20 @@
 # Frontend Development Practice
 
-Hi 👋 I'm Greeshma  
-I'm learning Frontend Development using HTML, CSS, and JavaScript.
+Hi, I'm Greeshma 👋  
+I am a B.Tech student currently learning frontend development.
 
-🔹 This repository contains:
+## About this repository
+This repository contains my practice work while learning:
 - HTML fundamentals
-- CSS layouts and styling
-- JavaScript basics
+- Basic CSS styling
+- Basic JavaScript concepts
 
-📌 Currently learning from IBM Frontend course on Coursera.
+I am currently learning from the **IBM Frontend Development course on Coursera**.
+
+## Files in this repository
+- index.html – HTML practice
+- style.css – Basic CSS practice
+- script.js – Basic JavaScript practice
+
+## Status
+Learning stage – improving step by step.
